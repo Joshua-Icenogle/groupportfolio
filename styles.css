@@ -1,0 +1,56 @@
+body {
+    background-color:#2D3947 ;
+    font-family: "lucida handwriting", italic;  
+    color: black; 
+    /*background: url("img/cover1.png"); 
+    background-size: cover;
+    background-position: center; */    }
+    
+
+h1, h2, h3 {
+    font-family: "Lobster", cursive ;
+}
+
+h2 {
+    color: #3046C5;
+}
+
+header h2 {
+    color: #CEC8FF;
+}
+
+footer {
+    background-color:#2D3947 ;  
+    position: absolute;
+    left: 0;
+    right: 0;
+    width: 100%;
+    padding: 20px 0;
+}
+
+
+.row-content {
+    padding: 50px 0;
+    border-bottom: 1px ridge;
+    min-height: 200px;
+}
+.navbar {
+    background-color:transparent;
+    margin-top: 0%;
+    margin-bottom: 20px;
+    font: size 20%;;
+}
+
+.jumbotron{
+	background-image: url("img/MFlogo2.png");
+	background-size: cover;
+    background-repeat: no-repeat;
+    margin-bottom: 0px;
+    min-height: 325px;
+    
+} 
+
+
+    
+
+
