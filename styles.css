@@ -35,20 +35,27 @@ footer {
     min-height: 200px;
 }
 .navbar {
-    background-color:transparent;
+    background-color: rgba(45, 57, 71, 0.75);
     margin-top: 0%;
     margin-bottom: 20px;
-    font: size 20%;;
+    font: size 20%;
+
 }
 
+
 .jumbotron{
-	background-image: url("img/MFlogo2.png");
+    /*background-image: url("img/MFlogo2.png");*/
+    background-position: center;
 	background-size: cover;
     background-repeat: no-repeat;
     margin-bottom: 0px;
     min-height: 325px;
     
 } 
+
+.header-img {
+    max-width: 100%;
+}
 
 
     
